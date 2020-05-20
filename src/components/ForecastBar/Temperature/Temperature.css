@@ -1,0 +1,22 @@
+.forecast-bar_temperature {
+    height: 24%;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #eeeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.temperature {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.t {
+    z-index: 99;
+    color: #f9d348;
+}

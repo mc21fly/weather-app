@@ -1,0 +1,11 @@
+.forecast-bar_day {
+    height: 3.3%;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    text-transform: uppercase;
+    font-weight: 700;
+}

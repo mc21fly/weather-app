@@ -1,0 +1,10 @@
+.forecast-bar_hour {
+    height: 6.1%;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #eeeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.7rem;
+}

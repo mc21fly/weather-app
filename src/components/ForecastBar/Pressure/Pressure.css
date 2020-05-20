@@ -1,0 +1,16 @@
+.forecast-bar_pressure {
+    height: 21.6%;
+    border-left: 2px solid #eeeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pressure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+}

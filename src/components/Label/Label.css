@@ -1,0 +1,21 @@
+.label {
+    z-index: 100;
+    min-width: 140px;
+    box-shadow: -10px 0px 30px 10px rgba(0,0,0,0.30);
+}
+
+.label-section {
+    padding: 0px 5px;
+    color: #888888;
+    font-weight: 500;
+    font-size: 1.2rem;
+    text-align: center;
+    border-bottom: 2px solid #eeeeee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.label-section:last-child {
+    border-bottom: none;
+}

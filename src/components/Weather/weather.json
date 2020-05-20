@@ -1,0 +1,283 @@
+{
+    "weather": [
+        {
+            "hour": 6,
+            "forecast": 1,
+            "temperature": 5,
+            "rainDrop": 0,
+            "windDir": 68,
+            "windSpeed": 4,
+            "pressure": 1019
+        },
+        {
+            "hour": 7,
+            "forecast": 2,
+            "temperature": 5,
+            "rainDrop": 0,
+            "windDir": 90,
+            "windSpeed": 7,
+            "pressure": 1017
+        },
+        {
+            "hour": 8,
+            "forecast": 3,
+            "temperature": 6,
+            "rainDrop": 2,
+            "windDir": 68,
+            "windSpeed": 7,
+            "pressure": 1018
+        },
+        {
+            "hour": 9,
+            "forecast": 3,
+            "temperature": 7,
+            "rainDrop": 1,
+            "windDir": 68,
+            "windSpeed": 7,
+            "pressure": 1019
+        },
+        {
+            "hour": 10,
+            "forecast": 1,
+            "temperature": 9,
+            "rainDrop": 0,
+            "windDir": 45,
+            "windSpeed": 11,
+            "pressure": 1019
+        },
+        {
+            "hour": 11,
+            "forecast": 2,
+            "temperature": 10,
+            "rainDrop": 0,
+            "windDir": 113,
+            "windSpeed": 11,
+            "pressure": 1017
+        },
+        {
+            "hour": 12,
+            "forecast": 2,
+            "temperature": 11,
+            "rainDrop": 0,
+            "windDir": 135,
+            "windSpeed": 14,
+            "pressure": 1018
+        },
+        {
+            "hour": 13,
+            "forecast": 2,
+            "temperature": 8,
+            "rainDrop": 0,
+            "windDir": 158,
+            "windSpeed": 17,
+            "pressure": 1008
+        },
+        {
+            "hour": 14,
+            "forecast": 1,
+            "temperature": 8,
+            "rainDrop": 0,
+            "windDir": 180,
+            "windSpeed": 20,
+            "pressure": 1000
+        },
+        {
+            "hour": 15,
+            "forecast": 2,
+            "temperature": 8,
+            "rainDrop": 0,
+            "windDir": 203,
+            "windSpeed": 26,
+            "pressure": 1010
+        },
+        {
+            "hour": 16,
+            "forecast": 3,
+            "temperature": 9,
+            "rainDrop": 2,
+            "windDir": 225,
+            "windSpeed": 19,
+            "pressure": 1008
+        },
+        {
+            "hour": 17,
+            "forecast": 3,
+            "temperature": 10,
+            "rainDrop": 1,
+            "windDir": 248,
+            "windSpeed": 29,
+            "pressure": 1008
+        },
+        {
+            "hour": 18,
+            "forecast": 1,
+            "temperature": 11,
+            "rainDrop": 0,
+            "windDir": 270,
+            "windSpeed": 30,
+            "pressure": 1000
+        },
+        {
+            "hour": 19,
+            "forecast": 2,
+            "temperature": 11,
+            "rainDrop": 0,
+            "windDir": 293,
+            "windSpeed": 36,
+            "pressure": 1010
+        },
+        {
+            "hour": 20,
+            "forecast": 3,
+            "temperature": 11,
+            "rainDrop": 1,
+            "windDir": 313,
+            "windSpeed": 35,
+            "pressure": 1008
+        },
+        {
+            "hour": 21,
+            "forecast": 3,
+            "temperature": 10,
+            "rainDrop": 2,
+            "windDir": 336,
+            "windSpeed": 21,
+            "pressure": 1008
+        },
+        {
+            "hour": 22,
+            "forecast": 6,
+            "temperature": 10,
+            "rainDrop": 4,
+            "windDir": 90,
+            "windSpeed": 17,
+            "pressure": 1000
+        },
+        {
+            "hour": 23,
+            "forecast": 6,
+            "temperature": 9,
+            "rainDrop": 6,
+            "windDir": 23,
+            "windSpeed": 19,
+            "pressure": 1010
+        },
+        {
+            "hour": 0,
+            "forecast": 6,
+            "temperature": 9,
+            "rainDrop": 9,
+            "windDir": 45,
+            "windSpeed": 11,
+            "pressure": 1008
+        },
+        {
+            "hour": 1,
+            "forecast": 6,
+            "temperature": 9,
+            "rainDrop": 4,
+            "windDir": 68,
+            "windSpeed": 5,
+            "pressure": 1008
+        },
+        {
+            "hour": 2,
+            "forecast": 6,
+            "temperature": 8,
+            "rainDrop": 2,
+            "windDir": 90,
+            "windSpeed": 10,
+            "pressure": 1000
+        },
+        {
+            "hour": 3,
+            "forecast": 5,
+            "temperature": 7,
+            "rainDrop": 0,
+            "windDir": 113,
+            "windSpeed": 16,
+            "pressure": 1010
+        },
+        {
+            "hour": 4,
+            "forecast": 4,
+            "temperature": 6,
+            "rainDrop": 0,
+            "windDir": 135,
+            "windSpeed": 9,
+            "pressure": 1008
+        },
+        {
+            "hour": 5,
+            "forecast": 1,
+            "temperature": 6,
+            "rainDrop": 0,
+            "windDir": 158,
+            "windSpeed": 10,
+            "pressure": 1008
+        },
+        {
+            "hour": 6,
+            "forecast": 2,
+            "temperature": 5,
+            "rainDrop": 0,
+            "windDir": 135,
+            "windSpeed": 11,
+            "pressure": 1010
+        },
+        {
+            "hour": 7,
+            "forecast": 2,
+            "temperature": 5,
+            "rainDrop": 0,
+            "windDir": 113,
+            "windSpeed": 18,
+            "pressure": 1008
+        },
+        {
+            "hour": 8,
+            "forecast": 2,
+            "temperature": 5,
+            "rainDrop": 0,
+            "windDir": 203,
+            "windSpeed": 14,
+            "pressure": 1008
+        },
+        {
+            "hour": 9,
+            "forecast": 2,
+            "temperature": 6,
+            "rainDrop": 0,
+            "windDir": 225,
+            "windSpeed": 20,
+            "pressure": 1008
+        },
+        {
+            "hour": 10,
+            "forecast": 2,
+            "temperature": 5,
+            "rainDrop": 0,
+            "windDir": 270,
+            "windSpeed": 10,
+            "pressure": 1010
+        },
+        {
+            "hour": 11,
+            "forecast": 2,
+            "temperature": 5,
+            "rainDrop": 0,
+            "windDir": 270,
+            "windSpeed": 15,
+            "pressure": 1008
+        },
+        {
+            "hour": 12,
+            "forecast": 1,
+            "temperature": 5,
+            "rainDrop": 0,
+            "windDir": 313,
+            "windSpeed": 16,
+            "pressure": 1008
+        }
+    ]
+}

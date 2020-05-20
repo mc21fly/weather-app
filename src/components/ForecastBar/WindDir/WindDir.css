@@ -1,0 +1,16 @@
+.forecast-bar_wind-dir {
+    height: 12.9%;
+    background-color: #eeeeee;
+    border-bottom: 2px solid #eeeeee;
+    border-left: 2px solid #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.direction {
+    font-size: 0.9rem;
+    margin-top: 10px;
+}

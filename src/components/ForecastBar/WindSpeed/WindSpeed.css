@@ -1,0 +1,16 @@
+.forecast-bar_wind-speed {
+    height: 10.6%;
+    background-color: #eeeeee;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    font-weight: 400;
+    font-size: 1.3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wind-strength {
+    font-size: 1rem;
+}
